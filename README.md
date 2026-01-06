@@ -1,66 +1,65 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gamer%20Grimoire&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Knowledge%20is%20the%20Ultimate%20Weapon&descAlignY=60&descAlign=50)
-
 <div align="center">
 
-![Level](https://img.shields.io/badge/Level-99-gold?style=for-the-badge&logo=star)
-![Class](https://img.shields.io/badge/Class-Tactician-red?style=for-the-badge&logo=target)
-![OS](https://img.shields.io/badge/OS-Arch_Linux-blue?style=for-the-badge&logo=archlinux)
-![Status](https://img.shields.io/badge/Status-ONLINE-green?style=for-the-badge&blink=true)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=GAMER%20GRIMOIRE&fontSize=90&animation=fadeIn&fontAlignY=35&desc=THE%20ULTIMATE%20STRATEGY%20VAULT&descAlignY=55&descAlign=50&fontColor=fff)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=ANALYZING+GAME+MECHANICS...;OPTIMIZING+TACTICAL+BUILDS...;RECLAIMING+THE+WASTELAND...;EXTRACTING+HIGH-VALUE+DATA...;STATUS:+LEGENDARY+RAIDER)](https://git.io/typing-svg)
 
 ---
-**A curated collection of survival guides, tactical handbooks, and economy spreadsheets for the discerning gamer.**
-<br>
-*Created by [Ind4Skylivey](https://github.com/ind4skylivey)*
+
+![Level](https://img.shields.io/badge/LEVEL-99-AF00FF?style=for-the-badge&logo=probot&logoColor=white)
+![Rank](https://img.shields.io/badge/RANK-S_TIER-00FFD5?style=for-the-badge&logo=target&logoColor=black)
+![Trophy](https://img.shields.io/badge/TROPHIES-PLATINUM-FFD700?style=for-the-badge&logo=prestashop&logoColor=black)
 
 </div>
 
 ---
 
-## 🗺️ The Atlas (Active Guides)
+## 🗺️ THE ATLAS: STRATEGIC INTEL
 
-| Game | Genre | Status | Focus |
-| :--- | :--- | :---: | :--- |
-| **[⚡ ARC RAIDERS](./ArcRaiders/Operator_Handbook.md)** | Extraction Shooter | ![Hot](https://img.shields.io/badge/TRENDING-orange?style=flat-square) | Squad Tactics, Weak Points |
-| **[☢️ FALLOUT 76](./Fallout76/Wasteland_Survival_Bible.md)** | MMO RPG | ![Leg](https://img.shields.io/badge/LEGENDARY-gold?style=flat-square) | Builds, Economy, End-game |
-| **[🌲 KYNSEED](./Kynseed/Master_Survival_Guide.md)** | Life Sim / RPG | ![Chill](https://img.shields.io/badge/RELAXED-green?style=flat-square) | Min-Maxing Gold, Fae Deals |
-| **[🚀 ICARUS](./Icarus/Journal_1-30.md)** | Survival | ![WIP](https://img.shields.io/badge/IN_PROGRESS-yellow?style=flat-square) | Leveling, Talents, Storms |
+<div align="center">
 
----
+| MISSION | INTEL TYPE | DIFFICULTY | XP GAIN |
+| :--- | :--- | :---: | :---: |
+| **[⚡ ARC RAIDERS](./ArcRaiders/Operator_Handbook.md)** | `TACTICAL MANUAL` | 🔥🔥🔥 | `MAX` |
+| **[☢️ FALLOUT 76](./Fallout76/Wasteland_Survival_Bible.md)** | `SURVIVAL BIBLE` | 🔥🔥🔥 | `MAX` |
+| **[🌲 KYNSEED](./Kynseed/Master_Survival_Guide.md)** | `ECONOMY GUIDE` | 🔥 | `MED` |
+| **[🚀 ICARUS](./Icarus/Journal_1-30.md)** | `SURVIVAL DIARY` | 🔥🔥 | `HIGH` |
 
-## 🎒 Inventory & Hardware Specs
-
-> *"It's not about the hardware, it's about how you use it. (But the hardware helps)."*
-
-### 🖥️ The Battlestation
-*   **OS:** Arch Linux (CachyOS optimized) 🐧
-*   **Shell:** ZSH + Powerlevel10k 🐚
-*   **Launchers:** 
-    *   ![Steam](https://img.shields.io/badge/Steam-1a2b3c?style=flat&logo=steam&logoColor=white)
-    *   ![Heroic](https://img.shields.io/badge/Heroic-purple?style=flat&logo=gamepad&logoColor=white)
-
-### 💾 Storage Management
-*   **NVMe SSD:** High-Priority Assets (Arc Raiders, Icarus) - *Speed is life.*
-*   **HDD Mass Storage:** The Vault (Archive, Backups, Heavy RPGs).
+</div>
 
 ---
 
-## 📜 Quest Board (To-Do)
+## 🛠️ THE BATTLESTATION SETUP
 
-### 🛡️ Main Quests
-- [ ] **Arc Raiders:** Create a "Loot Value Tier List" spreadsheet.
-- [ ] **Fallout 76:** Map out the best plastic farming route (Watoga High).
+```yaml
+system_specs:
+  os: "Arch Linux (CachyOS Kernel)"
+  environment: "Tactical Gamer Workstation"
+  storage:
+    - nvme: "Performance Tier (High-Speed Extraction)"
+    - hdd: "The Vault (Mass Archival)"
+  tools: [OpenRGB, LACT, Heroic, Steam]
+```
 
-### 💎 Side Quests
-- [ ] **Graphic Design:** Create custom header images for each game folder.
-- [ ] **Automation:** Script a "Game Launcher" that sets specific GPU profiles via LACT.
+---
+
+## 📜 QUEST LOG (ACTIVE MISSIONS)
+
+### ⚔️ Main Quests
+- [ ] **ARC RAIDERS:** Update Intel on new machine variants.
+- [ ] **FALLOUT 76:** Add "Mutation Synergies" section to the Bible.
+
+### 🛡️ Side Quests
+- [ ] **RGB SYNC:** Implement dynamic lighting profiles for each guide.
+- [ ] **COMMUNITY:** Open the Grimoire for Raider contributions.
 
 ---
 
 <div align="center">
 
-### GG WP
-*Remember: Save early, save often.*
+### 💎 GG WP 💎
+*Knowledge is the only loot you keep after a wipe.*
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=10&section=footer)
 
 </div>
