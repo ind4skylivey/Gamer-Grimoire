@@ -8,6 +8,13 @@
 ![Class](https://img.shields.io/badge/CLASS-CYBER_WARLORD-00FFD5?style=for-the-badge&logo=riotgames&logoColor=black)
 ![Reputation](https://img.shields.io/badge/REPUTATION-LEGENDARY-FFD700?style=for-the-badge&logo=crowdsource&logoColor=black)
 
+<br>
+<br>
+
+**A curated collection of survival guides, tactical handbooks, and economy spreadsheets for the discerning gamer.**
+<br>
+> *🚀 **LIVING REPOSITORY:** These guides are continuously updated to reflect the latest patches and meta shifts. Our mission is to engineer the ultimate gaming experience.*
+
 </div>
 
 ---
