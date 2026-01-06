@@ -1,0 +1,1 @@
+/home/il1v3y/Documents/grimoire-private/grimoire-sync.sh
