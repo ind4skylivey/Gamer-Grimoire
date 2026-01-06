@@ -1,72 +1,71 @@
-# ⚡ ARC RAIDERS: RESISTANCE OPERATOR HANDBOOK
+<div align="center">
 
-> **⚠️ SECURITY CLEARANCE:** RAIDER LEVEL
-> **STATUS:** ACTIVE COMBAT ZONE
-> **OBJECTIVE:** RESIST. LOOT. SURVIVE.
+![Arc Header](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=200&section=header&text=ARC%20RAIDERS&fontSize=80&fontColor=000000&animation=fadeIn&desc=OPERATOR%20HANDBOOK&descAlignY=65&descAlign=50)
 
----
+![Class](https://img.shields.io/badge/CLASS-RESISTANCE-cyan?style=for-the-badge&logo=riotgames&logoColor=black)
+![Threat](https://img.shields.io/badge/THREAT-MAXIMUM-red?style=for-the-badge&logo=target&logoColor=white)
+![Intel](https://img.shields.io/badge/INTEL-CLASSIFIED-black?style=for-the-badge)
 
-## 🛑 TACTICAL OVERVIEW
-The ARC isn't just an enemy; it's a force of nature. If you play this like COD, you die. If you play this like a solo hero, you die.
-
-| **The Golden Rules** |
-| :--- |
-| **1. Noise Discipline:** Machines track sound. Unsuppressed fire attracts the swarm. |
-| **2. Verticality:** The ARC struggles with complex geometry. Get to the rooftops. |
-| **3. Greed Kills:** An extracted Common item is worth more than a Legendary on your corpse. |
+</div>
 
 ---
 
-## 🤖 ENEMY INTEL (THE ARC)
-
-*Know your enemy to dismantle them.*
-
-| Unit Type | Threat Level | Weak Point | Recommended Tactic |
-| :--- | :---: | :--- | :--- |
-| **Drones (Flyers)** | 🟡 Low | Central Eye / Rotors | Short bursts. Don't waste explosives. |
-| **Walkers (Scout)** | 🟠 Med | Rear Heatsink / Legs | Flank them. One raider baits, one shoots the back. |
-| **Titan Units** | 🔴 EXTREME | **Joints & Core** | **RUN** if solo. Focus fire with heavy ordnance if squaded. |
-
-> **🔥 PRO TIP:** ARC units often drop "cores" or energy cells upon death. Shooting these while they are still near other machines creates a massive EMP blast chain reaction.
+## 📡 TACTICAL DATALINK
+| [🤖 Machine Weak Points](#-machine-anatomy-weak-points) | [🔫 Weapon TTK Tier List](#-weapon-meta-ttk) | [🎒 Loot Priority](#-loot-priority-economy) | [🚁 Panic Extraction](#-extraction-panic-protocol) |
+| :---: | :---: | :---: | :---: |
 
 ---
 
-## 🔫 ARSENAL & LOADOUTS
+## 🤖 MACHINE ANATOMY (WEAK POINTS)
+*Shooting armor is a waste of ammo. Hit the glowing bits.*
 
-### The "Ghost" (Solo/Stealth)
-*Designed for getting in, looting high-value tech, and vanishing.*
-*   **Primary:** Marksman Rifle (Suppressed).
-*   **Gadget:** Smoke Grenade / Decoy.
-*   **Movement:** Grapple Hook (Essential for vertical escapes).
-*   **Strategy:** Never engage a full patrol. Pick off stragglers. Use decoys to misdirect ARC reinforcements while you extract.
+| UNIT | WEAKNESS 1 (CRITICAL) | WEAKNESS 2 (DISABLE) | BEHAVIOR |
+| :--- | :--- | :--- | :--- |
+| **Drone (Flyer)** | 🔴 **Central Eye** (1-Shot) | Rotor Blades | Swarms. Ignore unless targeting you. |
+| **Scout Walker** | 🔴 **Rear Heat Vent** | Leg Joints (Slows) | Charges. Jump over it or flank. |
+| **Rocket Artillery** | 🔴 **Ammo Drum** (Explodes) | Top Radar | Static. Bombards from range. **PRIORITY TARGET.** |
+| **Titan (Boss)** | 🔴 **Core (Chest)** | Shoulder Cannons | **DO NOT ENGAGE SOLO.** Requires explosives. |
 
-### The "Breaker" (Squad Heavy)
-*Designed to draw aggro and crack armor.*
-*   **Primary:** LMG or Grenade Launcher.
-*   **Gadget:** Barricade / Trophy System.
-*   **Role:** You are the distraction. While you make noise, your teammates flank for the weak points.
+> **⚡ EMP TACTIC:** Throwing a `Shock Grenade` stuns machines for 4s. This exposes their cooling vents (Crit spots) instantly.
 
 ---
 
-## 🎒 LOOT PRIORITY (Economy)
+## 🔫 WEAPON META (TTK)
 
-Not all loot is created equal. Your backpack space is limited.
+*Based on DPS vs Armored targets.*
 
-1.  **Weapon Parts / Blueprints:** 💎 *HIGHEST PRIORITY.* Needed for permanent progression.
-2.  **Medical Stims:** Always keep a reserve. Drop ammo before you drop meds.
-3.  **Raw Materials:** Common scrap. Only take if you have space or a specific crafting need.
+### S-TIER (God Roll)
+*   **The "Viper" Marksman:** 2-Tap headshots on Walkers. Silent.
+*   **Grenade Launcher (Drum):** Crowd control for drone swarms.
+
+### A-TIER (Reliable)
+*   **Standard Assault Rifle:** Jack of all trades. Good for mid-range.
+*   **Pump Shotgun:** Excellent for close-quarters "Scout" busting.
+
+### F-TIER (Trash)
+*   **SMG (Base):** Too much recoil, low damage against armor. Leave it.
+
+---
+
+## 🎒 LOOT PRIORITY (ECONOMY)
+
+**Inventory Tetris Rule:** Price per Slot > Utility.
+
+1.  **Electronics / Chips:** 🟪 **Purple Rarity.** Always take. Used for weapon mods.
+2.  **Medical Stims (Refined):** 🟦 **Blue.** Better than cash. Saves your life.
+3.  **Weapon Parts:** 🟩 **Green.** Heavy but necessary for crafting.
+4.  **Scrap Metal:** ⬜ **White.** Drop this if you find anything else.
 
 ---
 
-## 🚁 EXTRACTION PROTOCOL
+## 🚁 EXTRACTION "PANIC" PROTOCOL
 
-**The most dangerous phase of the raid.**
+**Scenario:** *Squad is dead. Timer is red. 3 Walkers are chasing you.*
 
-1.  **The Flare:** Once you pop the flare, the entire map knows where you are.
-2.  **The "Late" Meta:** Don't stand on the extraction point. Hide 50m away with a line of sight.
-3.  **The Ambush:** Watch for other players camping the zone. Let them fight the ARC first, then clean up.
-
-> **💀 LAST RESORT:** If you are overrun and can't extract, try to stash your best loot in a "Dead Drop" (if available in current build) or hide in deep cover to wait out the timer. Better to lose the match time than your gear.
+1.  **Smoke Out:** Throw a smoke grenade AT YOUR FEET, not at the enemy.
+2.  **Verticality:** Grapple hook to the highest roof. Machines have bad pathfinding upwards.
+3.  **The "Late" Flare:** Do not call extraction immediately. Hide near the zone. Wait until the timer hits **30 seconds**. Call it then.
+4.  **Spin:** While extracting, spin your camera to check for player snipers. Don't stand still.
 
 ---
-*Authorized by: S1B Resistance Command*
+*End of transmission. Good luck, Raider.*
