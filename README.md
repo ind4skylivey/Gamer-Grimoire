@@ -59,7 +59,7 @@ DRIVE_1 (HDD)  = "DATA_VAULT (Backups, Media, Retro)"
 
 ### 📜 MISSION LOG
 
-- [x] **[PRIORITY]** **RGB INTEGRATION:** Execute `OpenRGB` script for dynamic environment lighting. *(Note: `grimoire-sync.sh` is a symlink to a private security repo)*
+- [x] **[PRIORITY]** **RGB INTEGRATION:** Execute `OpenRGB` script for dynamic environment lighting. *(Added AI & Coding modes)*
 - [ ] **[SIDE]** **LOOT TABLES:** Compile drop rates for *Arc Raiders* elite enemies.
 - [ ] **[EXPLORATION]** **APPALACHIA:** Map out all Gold Bullion vendor locations.
 
