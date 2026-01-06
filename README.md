@@ -21,7 +21,7 @@
 | **[⚡ ARC RAIDERS](./ArcRaiders/Operator_Handbook.md)** | `EXTRACTION SHOOTER` | ![Trending](https://img.shields.io/badge/TRENDING-orange?style=flat-square) | 💀💀💀💀💀 |
 | **[☢️ FALLOUT 76](./Fallout76/Wasteland_Survival_Bible.md)** | `POST-APOC MMORPG` | ![Completed](https://img.shields.io/badge/COMPLETED-green?style=flat-square) | 💀💀💀 |
 | **[🌲 KYNSEED](./Kynseed/Master_Survival_Guide.md)** | `GENERATIONAL RPG` | ![Relaxed](https://img.shields.io/badge/RELAXED-blue?style=flat-square) | 💀 |
-| **[🚀 ICARUS](./Icarus/Journal_1-30.md)** | `SURVIVAL SIM` | ![WIP](https://img.shields.io/badge/IN_PROGRESS-yellow?style=flat-square) | 💀💀💀💀 |
+| **[🚀 ICARUS](./Icarus/Prospector_Field_Manual.md)** | `SURVIVAL SIM` | ![Advanced](https://img.shields.io/badge/ADVANCED-purple?style=flat-square) | 💀💀💀💀 |
 
 </div>
 
