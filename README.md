@@ -60,7 +60,8 @@ DRIVE_1 (HDD)  = "DATA_VAULT (Backups, Media, Retro)"
 
 ### 📜 MISSION LOG
 
-- [x] **[PRIORITY]** **RGB INTEGRATION:** Execute `OpenRGB` script for dynamic environment lighting. *(Added AI & Coding modes)*
+- [x] **[PRIORITY]** **RGB INTEGRATION:** Execute `OpenRGB` script for dynamic environment lighting. *(Added AI, Coding & Divine modes)*
+- [x] **[NEW]** **DIVINITY GUIDE:** Integrated *Divinity: Original Sin 2* tactical handbook.
 - [ ] **[SIDE]** **LOOT TABLES:** Compile drop rates for *Arc Raiders* elite enemies.
 - [ ] **[EXPLORATION]** **APPALACHIA:** Map out all Gold Bullion vendor locations.
 
